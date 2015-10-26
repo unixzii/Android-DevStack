@@ -6,6 +6,8 @@ Android开发中的一点干货和经验.
 
 ## 开发基础
 
+[Bitmap使用详解](https://github.com/unixzii/Android-DevStack/blob/master/Basics/mastering_bitmap.md) (UI, graphics, 位图, 图片, 图像)
+
 ## 进阶
 
 ## 实用代码
